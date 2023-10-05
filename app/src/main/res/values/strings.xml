@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Activity2</string>
+    <string name="nama">Ehzand Herry</string>
+    <string name="hp">08123124234</string>
+    <string name="btnSubmit">Button</string>
+    <string name="title">ROSSI</string>
+    <string name="btnStart">START</string>
+    <string name="prev">&lt;</string>
+    <string name="next">&gt;</string>
+    <string name="textchange">Select Your Team</string>
+    <string name="btnRight">Right</string>
+    <string name="btnLeft">Left</string>
+    <string name="btn1">BUtton 1</string>
+    <string name="btn2">Button 2</string>
+    <string name="btnMatch">Match Parent</string>
+    <string name="btnSubmit2">Submit</string>
+    <string name="name">Name:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="EnterName">Enter Your Name</string>
+    <string name="EnterPhone">Enter Your Phone Number</string>
+    <string name="EnterAddress">Enter Your Address</string>
+</resources>
